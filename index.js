@@ -1,4 +1,5 @@
-fun happyHolidays(greeting, holiday){
-  return `${greeting}, ${holiday}!`
+function happyHolidays(){
+  return `Happy Holidays!`
 }
-say("Happy", "Holidays")
+  
+
