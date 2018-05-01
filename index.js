@@ -1,1 +1,4 @@
-// write your code below!
+fun happyHolidays(greeting, holiday){
+  return `${greeting}, ${holiday}!`
+}
+say("Happy", "Holidays")
